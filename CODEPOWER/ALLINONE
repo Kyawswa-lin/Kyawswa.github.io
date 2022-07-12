@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>cody land</title>
+</head>
+<body>
+    <div id="header">
+        <span class="io">About me</span>
+        <span class="io">Education status</span>
+        <span class="io">Contact</span>
+        <span class="io">Personal blog</span>
+    </div>
+</body>
+</html>
